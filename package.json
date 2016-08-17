@@ -1,23 +1,22 @@
 {
-  "name": "grunt-cache-breaker",
-  "description": "Simple cache-breaker, appends a timestamp or md5 hash to any urls",
+  "name": "grunt-cache-crusher",
+  "description": "Simple cache-crusher, appends a timestamp or md5 hash to any urls. Based on grunt-cache-breaker",
   "version": "2.0.0",
-  "homepage": "https://github.com/shakyshane/grunt-cache-breaker",
+  "homepage": "https://github.com/Merk87/grunt-cache-crusher",
   "author": {
     "name": "Shane Osbourne",
     "email": "shane.osbourne8@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/shakyshane/grunt-cache-breaker.git"
+    "url": "git://github.com/Merk87/grunt-cache-crusher.git"
   },
   "bugs": {
-    "url": "https://github.com/shakyshane/grunt-cache-breaker/issues"
-  },
+    "url": "https://github.com/Merk87/grunt-cache-crusher/issues"},
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/shakyshane/grunt-cache-breaker/blob/master/LICENSE-MIT"
+      "url": "https://github.com/Merk87/grunt-cache-crusher/blob/master/LICENSE-MIT"
     }
   ],
   "main": "Gruntfile.js",
